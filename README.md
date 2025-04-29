@@ -7,7 +7,7 @@ To get started, follow these steps:
 
     Clone the repository:
 
-git clone https://github.com/zehranurugurr/reactnativelearn.git
+git clone https://github.com/zehranurugurr/reactdev.git
 
 Navigate to the project directory:
 
